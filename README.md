@@ -30,4 +30,4 @@ EDA involved exploring the Proffessional survey data to answer key questions, su
 - Average Salary in respect to Job Titles
 _ The most used or favourite programming 
 - how Happy are programmers with Work life Balance and Salary
-- Average Salary between Male and Female in respect to their country.
+- Average Salary by sex in respect to their country.
