@@ -14,7 +14,7 @@ Survey Questionaire
  - [Download here (https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
 
-## Data Cleaning/Preparartion 
+## Data Cleaning/Preparation 
 
 In the initial data preparation phase, I performed the following task:
 1. Data Loading and inspection.
@@ -30,4 +30,4 @@ EDA involved exploring the Proffessional survey data to answer key questions, su
 - Average Salary in respect to Job Titles
 _ The most used or favourite programming 
 - how Happy are programmers with Work life Balance and Salary
-- Average Salary between Male and Female
+- Average Salary between Male and Female in respect to their country.
