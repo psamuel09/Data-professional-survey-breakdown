@@ -31,3 +31,32 @@ EDA involved exploring the Proffessional survey data to answer key questions, su
 _ The most used or favourite programming 
 - how Happy are programmers with Work life Balance and Salary
 - Average Salary by sex in respect to their country.
+
+## Data Analysis
+
+Include some interesting code/features worked with
+
+
+
+
+## Results/Findings
+
+The Analysis results are summarized as follows:
+
+
+
+## Recommendations
+
+Based on the analysis, we recommend the following:
+
+
+
+## Limitations
+
+I had to remove all zero values from .... they would have affected the accuracy of my conclusion from tyhe analysis,
+
+
+## References
+
+1.
+2.
