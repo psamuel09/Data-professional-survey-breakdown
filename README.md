@@ -23,6 +23,8 @@ In the initial data preparation phase, I performed the following task:
 
 ![Image](https://github.com/user-attachments/assets/5eee52ee-52d1-437f-b818-7c1739422e58)
 
+Using the Split By Column to remove unwanted characters.
+![Image](https://github.com/user-attachments/assets/2b30bd81-bb42-4a30-bc99-f96b91d338f8)
 
 ## Exploratory Data Analysis
 
