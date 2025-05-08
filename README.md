@@ -19,7 +19,7 @@ Survey Questionaire
 In the initial data preparation phase, I performed the following task:
 1. Data Loading and inspection.
 ![Image](https://github.com/user-attachments/assets/4dcb6aaf-6e07-407b-a655-66a20e6516f7)
-
+![Image](https://github.com/user-attachments/assets/b9029187-3def-49ce-b36c-9cc27adf9f69)
 2. Handling Missing Values.
 3. Data Cleaning and formatting.
 
