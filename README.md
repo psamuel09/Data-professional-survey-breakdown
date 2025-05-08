@@ -22,7 +22,7 @@ In the initial data preparation phase, I performed the following task:
 ![Image](https://github.com/user-attachments/assets/b9029187-3def-49ce-b36c-9cc27adf9f69)
 From the image above, i had to click on transform so that i can inspect and remove un wanted data from the power query environment, before loading it to the powerBi environment.
 
-3. Handling Missing Values.
+3. Handling Missing Values by deleting unneeded columns and roles.
 
 ![Image](https://github.com/user-attachments/assets/0f5e2c62-e887-44f0-876b-cf82d6fcad79)
 
