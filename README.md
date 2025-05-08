@@ -23,6 +23,9 @@ In the initial data preparation phase, I performed the following task:
 From the image above, i had to click on transform so that i can inspect and remove un wanted data from the power query environment, before loading it to the powerBi environment.
 
 3. Handling Missing Values.
+
+![Image](https://github.com/user-attachments/assets/0f5e2c62-e887-44f0-876b-cf82d6fcad79)
+
 4. Data Cleaning and formatting.
 
 ![Image](https://github.com/user-attachments/assets/5eee52ee-52d1-437f-b818-7c1739422e58)
