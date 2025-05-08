@@ -20,8 +20,10 @@ In the initial data preparation phase, I performed the following task:
 1. Data Loading and inspection.
 ![Image](https://github.com/user-attachments/assets/4dcb6aaf-6e07-407b-a655-66a20e6516f7)
 ![Image](https://github.com/user-attachments/assets/b9029187-3def-49ce-b36c-9cc27adf9f69)
-2. Handling Missing Values.
-3. Data Cleaning and formatting.
+From the image above, i had to click on transform so that i can inspect and remove un wanted data from the power query environment, before loading it to the powerBi environment.
+
+3. Handling Missing Values.
+4. Data Cleaning and formatting.
 
 ![Image](https://github.com/user-attachments/assets/5eee52ee-52d1-437f-b818-7c1739422e58)
 
