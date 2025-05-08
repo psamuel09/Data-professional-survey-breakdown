@@ -43,7 +43,7 @@ The image below is the result gotten after splitting the initial column, and del
 
 ![Image](https://github.com/user-attachments/assets/48ee49b0-4d4b-4b85-bb1a-ab7e28433c35)
 
-
+![Image](https://github.com/user-attachments/assets/418c1190-3874-4a39-a1a5-ebb07f511e54)
 
 ## Exploratory Data Analysis
 
