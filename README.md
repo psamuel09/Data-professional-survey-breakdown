@@ -32,6 +32,8 @@ From the image above, i had to click on transform so that i can inspect and remo
 
 Using the Split By Column to remove unwanted characters.
 ![Image](https://github.com/user-attachments/assets/2b30bd81-bb42-4a30-bc99-f96b91d338f8)
+The Image below is the Yearly range of Salary, from the two values given, i will create a new column called average yearly salary by firstly detaching every iphen and letter from the values to make calculation easier.
+
 
 ## Exploratory Data Analysis
 
