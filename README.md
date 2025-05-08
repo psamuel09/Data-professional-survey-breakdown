@@ -26,7 +26,7 @@ From the image above, i had to click on transform so that i can inspect and remo
 
 ![Image](https://github.com/user-attachments/assets/0f5e2c62-e887-44f0-876b-cf82d6fcad79)
 
-4. Data Cleaning and formatting.
+4. Data Cleaning and formatting by using appropriate data type and figures.
 
 ![Image](https://github.com/user-attachments/assets/5eee52ee-52d1-437f-b818-7c1739422e58)
 
