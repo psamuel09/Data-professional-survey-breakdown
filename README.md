@@ -45,6 +45,8 @@ The image below is the result gotten after splitting the initial column, and del
 
 ![Image](https://github.com/user-attachments/assets/418c1190-3874-4a39-a1a5-ebb07f511e54)
 
+![Image](https://github.com/user-attachments/assets/25ea65f6-980a-4f92-a6d8-afa54a65c1a9)
+
 ## Exploratory Data Analysis
 
 EDA involved exploring the Proffessional survey data to answer key questions, such as:
