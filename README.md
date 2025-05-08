@@ -37,7 +37,8 @@ Using the Split By Column to remove unwanted characters.
 ![Image](https://github.com/user-attachments/assets/b6ab3fd9-46d2-46b2-9d69-bae94d58aa7e)
 
 The Image above is the Yearly range of Salary, from the two values given, i will create a new column called average yearly salary by firstly detaching every iphen and letter from the values to make calculation easier.
-
+The image below is the result gotten after splitting the initial column, and deleting letter "K" and iphen. 
+![Image](https://github.com/user-attachments/assets/48ee49b0-4d4b-4b85-bb1a-ab7e28433c35)
 
 ## Exploratory Data Analysis
 
