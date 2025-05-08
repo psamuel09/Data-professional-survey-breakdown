@@ -20,6 +20,7 @@ In the initial data preparation phase, I performed the following task:
 1. Data Loading and inspection.
 ![Image](https://github.com/user-attachments/assets/4dcb6aaf-6e07-407b-a655-66a20e6516f7)
 ![Image](https://github.com/user-attachments/assets/b9029187-3def-49ce-b36c-9cc27adf9f69)
+
 From the image above, i had to click on transform so that i can inspect and remove un wanted data from the power query environment, before loading it to the powerBi environment.
 
 3. Handling Missing Values by deleting unneeded columns and roles.
@@ -32,7 +33,10 @@ From the image above, i had to click on transform so that i can inspect and remo
 
 Using the Split By Column to remove unwanted characters.
 ![Image](https://github.com/user-attachments/assets/2b30bd81-bb42-4a30-bc99-f96b91d338f8)
-The Image below is the Yearly range of Salary, from the two values given, i will create a new column called average yearly salary by firstly detaching every iphen and letter from the values to make calculation easier.
+
+![Image](https://github.com/user-attachments/assets/b6ab3fd9-46d2-46b2-9d69-bae94d58aa7e)
+
+The Image above is the Yearly range of Salary, from the two values given, i will create a new column called average yearly salary by firstly detaching every iphen and letter from the values to make calculation easier.
 
 
 ## Exploratory Data Analysis
