@@ -51,6 +51,8 @@ The image below is the result gotten after splitting the initial column, and del
 
 After getting just the two values, its time to write formular to get the average value in a new column called Average Salary, see image below;
 
+![Image](https://github.com/user-attachments/assets/938f44be-8b80-42b1-af4b-01edde79caf1)
+
 
 
 ## Exploratory Data Analysis
