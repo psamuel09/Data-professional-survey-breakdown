@@ -53,7 +53,7 @@ After getting just the two values, its time to write formular to get the average
 
 ![Image](https://github.com/user-attachments/assets/938f44be-8b80-42b1-af4b-01edde79caf1)
 
-
+![Image](https://github.com/user-attachments/assets/5e10c74d-7563-4080-9893-82bae5db887d)
 
 ## Exploratory Data Analysis
 
