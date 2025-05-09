@@ -92,22 +92,20 @@ Programmers are slightly happy with work life Balance and Salary from the image 
 
 - Average Salary by sex.
 
-
+![Image](https://github.com/user-attachments/assets/9ca7fc11-57ee-45b9-bedc-fcbee8e4b4a6)
 
 The average Salary of Male is slightly higher than that of the female.
 
-## Data Analysis
-
-Include some interesting code/features worked with
+## Data Analysis & Results/Findings
 
 
+![Image](https://github.com/user-attachments/assets/7411a86d-9b13-4bef-8c8e-818685c52f45)
 
 
-## Results/Findings
 
 The Analysis results are summarized as follows:
-
-
+From these major countries United States of America, United Kingdom, Canada and India, and other part of the nation, but most of the survey takers were from those four countries, it was observed that Python is the most used and also most peoples favourite programming language, the reason is its really the most easy to learn Language, and Java is the least used programming Language, Hence it's used by few people and there is no much competition in that category.  
+On the other hand Data scientist are the most paid proffession, followed by Data Engineer, and the Least paid in data category is Database Developer.
 
 ## Recommendations
 
