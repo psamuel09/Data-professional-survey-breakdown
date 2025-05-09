@@ -67,7 +67,7 @@ EDA involved exploring the Proffessional survey data to answer key questions, su
 
 - Average Age of survey taker
 
-
+![Image](https://github.com/user-attachments/assets/3576e91e-a655-4dfb-b929-a5581ce0982c)
 
  This can either be gotten manually by adding up the ages of all the survey takers and divide the total by the count of the survey takers. or by simply clicking on the average button while selectig the age column.
   
