@@ -60,11 +60,36 @@ After getting just the two values, its time to write formular to get the average
 EDA involved exploring the Proffessional survey data to answer key questions, such as:
 
 - How Many people took the Survey
+
+
+
+ This is gotten from the total Count of unique_ID column.
+
 - Average Age of survey taker
+
+
+
+ This can either be gotten manually by adding up the ages of all the survey takers and divide the total by the count of the survey takers. or by simply clicking on the average button while selectig the age column.
+  
 - Average Salary in respect to Job Titles
-_ The most used or favourite programming 
-- how Happy are programmers with Work life Balance and Salary
-- Average Salary by sex in respect to their country.
+
+
+The average salary in respect to job title from data science to database developer, according to the survey takers from the five countries USA, Canada, UK, India and others.
+
+- The most used or favourite programming
+
+
+According to the four countries, python is the most used programming Language.
+  
+- How Happy are programmers with Work life Balance and Salary.
+
+
+Programmers are slightly happy with work life Balance and Salary from the image result above.
+
+- Average Salary by sex.
+
+
+The average Salary of Male is slightly higher than that of the female.
 
 ## Data Analysis
 
