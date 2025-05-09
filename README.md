@@ -73,6 +73,7 @@ EDA involved exploring the Proffessional survey data to answer key questions, su
   
 - Average Salary in respect to Job Titles
 
+![Image](https://github.com/user-attachments/assets/f9f4ea1a-a147-4bbc-833b-63e52f00c2a8)
 
 The average salary in respect to job title from data science to database developer, according to the survey takers from the five countries USA, Canada, UK, India and others.
 
