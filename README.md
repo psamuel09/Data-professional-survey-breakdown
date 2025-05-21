@@ -110,7 +110,10 @@ On the other hand Data scientist are the most paid proffession, followed by Data
 ## Recommendations
 
 Based on the analysis, we recommend the following:
+looking at the most used or favourite programming language and the less used programming language, python topping the chart and Java being the least used, this sends a signal that, python is an easy to learn and use programming language with a lot of users, and java is a complex programming language that has just few people writing it and learning it.
 
+- For someone that might be frightened by high competition in the programming indusrty Java should be their best option.
+- And for a prospective programmer that wants an easy to understand language, python should be their best option. 
 
 
 ## Limitations
@@ -119,6 +122,4 @@ I had to remove all zero values from .... they would have affected the accuracy 
 
 
 ## References
-
-1.
-2.
+1. Alex the analyst
